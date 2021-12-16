@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Tyler\Desktop\Stuff\PythonLearningt\DjangoTranslator\env"
+VIRTUAL_ENV="C:\Users\Tyler\Desktop\Stuff\PythonLearningt\djangotranslator\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
